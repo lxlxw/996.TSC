@@ -1,6 +1,6 @@
 # 996.TSC
 
-[996.TSC](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入996.ICU的活动中来。
+[996.ICU](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入996.ICU的活动中来。
 
 *此版块为文化创意板块，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)*
 
