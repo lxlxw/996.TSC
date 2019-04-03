@@ -17,6 +17,6 @@
 
 # 拯救 996 模型畅想 
 
-[拯救 996 模型畅想 ](./image/model.png)
+![拯救 996 模型畅想](./image/model.png)
 
 [了解更多](https://qiankunpingtai.cn)
