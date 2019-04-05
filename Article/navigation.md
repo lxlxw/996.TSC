@@ -13,5 +13,7 @@
 | [公司在年会上宣布“996”工作制 劳动监察部门介入调查](<https://mp.weixin.qq.com/s/TtZsuYsSh-g1KlKoOSCLoQ>) |  8W+   |  微信-央视新闻  |
 | [聊聊 996](<https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ>) |  8W+   |  微信-小道消息  |
 | [996.ICU，全世界都听到了中国程序员的呐喊与彷徨](<https://mp.weixin.qq.com/s/CSwij_EStWAT2JHyqn_VSA>) |  8W+   |   微信-InfoQ    |
+| [在代码仓库里反对“996”，中国程序员抗议加班制度](<http://www.qdaily.com/articles/62583.html>) |  N/A   |   好奇心日报-任思远    |
+| [关于程序员的996，我们谈谈历史和逻辑](<https://mp.weixin.qq.com/s/Gz5rBTpMdFkNZUZKlV7D4Q>) |  5.6W   |   微信-caoz（曹政）    |
 
 ideas are bulletproof.
