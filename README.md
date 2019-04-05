@@ -8,7 +8,6 @@
 
 你可以从这里上传，提交和同步修改关于996.ICU相关的周边文化设计，可以是壁纸、文化衫、站点、头像等。 
 
-[![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 [![HitCount](http://hits.dwyl.io/lxlxw/996.TSC.svg)](http://hits.dwyl.io/lxlxw/996.TSC)
@@ -36,16 +35,16 @@
 
  - 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
 
- - 目前 996ICU License 处于起草阶段，希望有相关经验的专业人士能给予帮助。
+ - 目前 Anti 996 License 处于起草阶段，希望有相关经验的专业人士能给予帮助。
 
 ### License
 ---
-[996ICU License](LICENSE)  
+[Anti 996 License](LICENSE)  
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
  - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
-> This version of 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
+> This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
 > 
-> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
+> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/Anti-996-License/wiki). This license is designed to be compatible with all major open source licenses.
 > 
-> For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
+> For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License](https://github.com/kattgu7/Anti-996-License). Thank you.
