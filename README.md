@@ -1,12 +1,12 @@
 # 996.TSC
 
-[996.ICU](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入996.ICU的活动中来。
+[996.ICU](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入 996.ICU 的活动中来。
 
 *此版块为文化创意板块，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)*
 
 996.TSC：996，The Surrounding Culture (周边文化)。
 
-你可以从这里上传，提交和同步修改关于996.ICU相关的周边文化设计，可以是壁纸、文化衫、站点、头像等。 
+你可以从这里上传，提交和同步修改关于 996.ICU 相关的周边文化设计，可以是壁纸、文化衫、站点、头像等。 
 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -19,13 +19,13 @@
  
  - 可使用你的 GitHub ID 或者其他社交平台上非中文的 ID 来命名图片等文化产品
  
- - 如果需要在你的文件夹内创建描述文件,请尽量使用 [Markdown](https://en.wikipedia.org/wiki/Markdown) 语法来编写
+ - 如果需要在你的文件夹内创建描述文件，请尽量使用 [Markdown](https://en.wikipedia.org/wiki/Markdown) 语法来编写
  
- - 图片请尽量压缩大小, 图片质量过低的 Pull Request 会被 Close
+ - 图片请尽量压缩大小，图片质量过低的 Pull Request 会被 Close
 
 ### 说明
 
- - 996.TSC文化产品均由GitHub开源社区开发者所提交，可供使用、转载等，但不可商用，如不支持，请勿提交。
+ - 996.TSC 文化产品均由 GitHub 开源社区开发者所提交，可供使用、转载等，但不可商用，如不支持，请勿提交。
 
  - 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
