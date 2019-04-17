@@ -15,9 +15,6 @@ export default {
     return {
       data: data.keys().map(path => require("./data/" + path.replace("./", "")))
     };
-  },
-  created() {
-    console.log("2222");
   }
 };
 </script>

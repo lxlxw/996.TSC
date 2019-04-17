@@ -19,9 +19,6 @@ export default {
   },
   components: {
     VueMarkdown
-  },
-  created() {
-    console.log("2222");
   }
 };
 </script>
