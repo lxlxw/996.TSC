@@ -9,8 +9,6 @@
 **号召大家为此项目贡献相关周边，包括但不限于：表情包、文化衫、海报、Logo、壁纸、媒体报道、精彩讨论文章！**
 
 
-**[宣传站点：996tsc.netlify.com](https://996tsc.netlify.com)**
-
 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -19,9 +17,10 @@
 
 ### 周边贡献标准
 
-各位贡献的周边资源请根据类型放入对应文件夹
+各位贡献的周边资源请根据类型放入对应文件夹（同时请把类似`.xcf`,`.svg`,`.sketch`,`.eps`[这样的开放格式](https://github.com/lxlxw/996.TSC/issues/68)源文件放入对应的`..../source/`文件夹下）
 
 * 表情包：`src/components/sticker/data/`
+* 段子：请编辑`src/components/joke/data/joke.md`
 * 文化衫：`src/components/tshirt/data/`
 * 海报：`src/components/poster/data/`
 * Logo：`src/components/logo/data/`
@@ -83,7 +82,7 @@
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
  - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
 > This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
-> 
+>
 > This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/Anti-996-License/wiki). This license is designed to be compatible with all major open source licenses.
-> 
+>
 > For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License](https://github.com/kattgu7/Anti-996-License). Thank you.
