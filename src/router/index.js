@@ -30,6 +30,16 @@ export default new Router({
       component: () => import('@/components/music/index.vue')
     },
     {
+      path: '/screenshot',
+      name: 'screenshot',
+      component: () => import('@/components/screenshot/index.vue')
+    },
+    {
+      path: '/video',
+      name: 'video',
+      component: () => import('@/components/video/index.vue')
+    },
+    {
       path: '/poster',
       name: 'poster',
       component: () => import('@/components/poster/index.vue')

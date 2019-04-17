@@ -15,9 +15,11 @@
     <div class='tab-bar'>
       <el-button size="medium" :type='primary("sticker")' @click='route("/sticker")'>表情包</el-button>
       <el-button size="medium" :type='primary("joke")' @click='route("/joke")'>段子</el-button>
+      <el-button size="medium" :type='primary("screenshot")' @click='route("/screenshot")'>截图</el-button>
       <el-button size="medium" :type='primary("tshirt")' @click='route("/tshirt")'>文化衫</el-button>
       <el-button size="medium" :type='primary("poster")' @click='route("/poster")'>海报</el-button>
       <el-button size="medium" :type='primary("music")' @click='route("/music")'>音乐</el-button>
+      <el-button size="medium" :type='primary("video")' @click='route("/video")'>视频</el-button>
       <el-button size="medium" :type='primary("logo")' @click='route("/logo")'>Logo</el-button>
       <el-button size="medium" :type='primary("wallpaper")' @click='route("/wallpaper")'>壁纸</el-button>
       <el-button size="medium" :type='primary("media")' @click='route("/media")'>媒体报道</el-button>

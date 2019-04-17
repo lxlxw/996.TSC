@@ -21,9 +21,11 @@
 
 * 表情包：`src/components/sticker/data/`
 * 段子：请编辑`src/components/joke/data/joke.md`
+* 截图：`src/components/screenshot/data/`
 * 文化衫：`src/components/tshirt/data/`
 * 海报：`src/components/poster/data/`
 * 音乐: 请编辑`src/components/music/data/music.md`
+* 视频: 请编辑`src/components/video/data/video.md`
 * Logo：`src/components/logo/data/`
 * 壁纸：`src/components/wallpaper/data/`
 * 媒体报道：请编辑`src/components/media/data/navigation.md`
