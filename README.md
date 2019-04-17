@@ -9,6 +9,8 @@
 **号召大家为此项目贡献相关周边，包括但不限于：表情包、文化衫、海报、Logo、壁纸、媒体报道、精彩讨论文章！**
 
 
+**[宣传站点：996tsc.netlify.com](https://996tsc.netlify.com)**
+
 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
