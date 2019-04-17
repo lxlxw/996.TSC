@@ -14,6 +14,7 @@
     </div>
     <div class='tab-bar'>
       <el-button size="medium" :type='primary("sticker")' @click='route("/sticker")'>表情包</el-button>
+      <el-button size="medium" :type='primary("joke")' @click='route("/joke")'>段子</el-button>
       <el-button size="medium" :type='primary("tshirt")' @click='route("/tshirt")'>文化衫</el-button>
       <el-button size="medium" :type='primary("poster")' @click='route("/poster")'>海报</el-button>
       <el-button size="medium" :type='primary("logo")' @click='route("/logo")'>Logo</el-button>

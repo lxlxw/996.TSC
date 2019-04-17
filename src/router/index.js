@@ -15,6 +15,11 @@ export default new Router({
       component: () => import('@/components/sticker/index.vue')
     },
     {
+      path: '/joke',
+      name: 'joke',
+      component: () => import('@/components/joke/index.vue')
+    },
+    {
       path: '/tshirt',
       name: 'tshirt',
       component: () => import('@/components/tshirt/index.vue')
