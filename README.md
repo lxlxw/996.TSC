@@ -23,6 +23,7 @@
 * 段子：请编辑`src/components/joke/data/joke.md`
 * 文化衫：`src/components/tshirt/data/`
 * 海报：`src/components/poster/data/`
+* 音乐: 请编辑`src/components/music/data/music.md`
 * Logo：`src/components/logo/data/`
 * 壁纸：`src/components/wallpaper/data/`
 * 媒体报道：请编辑`src/components/media/data/navigation.md`

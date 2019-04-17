@@ -25,6 +25,11 @@ export default new Router({
       component: () => import('@/components/tshirt/index.vue')
     },
     {
+      path: '/music',
+      name: 'music',
+      component: () => import('@/components/music/index.vue')
+    },
+    {
       path: '/poster',
       name: 'poster',
       component: () => import('@/components/poster/index.vue')
