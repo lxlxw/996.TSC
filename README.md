@@ -1,6 +1,8 @@
 # 996.TSC
 
 > 996.TSC：996，The Surrounding Culture (周边文化)
+> 
+> **本项目没有、也不会和任何"盈利"牵扯到一起！**
 >
 > **此版块为文化创意板块，担任[996.ICU](https://github.com/996icu/996.ICU)的文化宣传工作，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)**
 
