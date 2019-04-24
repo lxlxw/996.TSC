@@ -30,6 +30,11 @@ export default new Router({
       component: () => import('@/components/music/index.vue')
     },
     {
+      path: '/poetry',
+      name: 'poetry',
+      component: () => import('@/components/poetry/index.vue')
+    },
+    {
       path: '/screenshot',
       name: 'screenshot',
       component: () => import('@/components/screenshot/index.vue')

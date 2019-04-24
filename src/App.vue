@@ -19,6 +19,7 @@
       <el-button size="medium" :type='primary("tshirt")' @click='route("/tshirt")'>文化衫</el-button>
       <el-button size="medium" :type='primary("poster")' @click='route("/poster")'>海报</el-button>
       <el-button size="medium" :type='primary("music")' @click='route("/music")'>音乐</el-button>
+      <el-button size="medium" :type='primary("poetry")' @click='route("/poetry")'>诗歌</el-button>
       <el-button size="medium" :type='primary("video")' @click='route("/video")'>视频</el-button>
       <el-button size="medium" :type='primary("logo")' @click='route("/logo")'>Logo</el-button>
       <el-button size="medium" :type='primary("wallpaper")' @click='route("/wallpaper")'>壁纸</el-button>
