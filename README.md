@@ -82,15 +82,12 @@ P.S. 站点已被微信屏蔽，这里有未被屏蔽的**备份地址：https:/
 
 
 
-### License
-
+License
 ---
-[Anti 996 License](./LICENSE)  
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
- - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
-> This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
->
-> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/Anti-996-License/wiki). This license is designed to be compatible with all major open source licenses.
->
-> For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License](https://github.com/kattgu7/Anti-996-License). Thank you.
+[反 996 许可证](LICENSE)
+
+ - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
+ - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
+ - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
+ - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
