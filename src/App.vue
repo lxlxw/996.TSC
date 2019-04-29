@@ -28,6 +28,9 @@
     </div>
     <router-view />
     <vue-progress-bar></vue-progress-bar>
+    <div v-show="display" @click="top()" class="page-top">
+      <i class="el-icon-caret-top"></i>
+    </div>
   </div>
 </template>
 
@@ -36,7 +39,8 @@ export default {
   name: "App",
   data() {
     return {
-      logo: require("./assets/logo.png")
+      logo: require("./assets/logo.png"),
+      display: false
     };
   },
   methods: {
@@ -59,9 +63,15 @@ export default {
         "Windows Phone",
         "iPad",
         "iPod"
-      ].all(val => {
+      ].every(val => {
         return userAgentInfo.indexOf(val) === -1;
       })
+    },
+    top() {
+      scrollTo(0,0);
+    },
+    onscroll() {
+      this.display = window.scrollY >= 450;
     }
   },
   created() {
@@ -70,6 +80,7 @@ export default {
     }
   },
   mounted() {
+    window.addEventListener("scroll", this.onscroll);
     this.$router.beforeEach((to, from, next) => {
       this.$Progress.start();
       next();
@@ -77,6 +88,9 @@ export default {
     this.$router.afterEach((to, from) => {
       this.$Progress.finish();
     });
+  },
+  beforeDestroy() {
+    window.removeEventListener("scroll", this.onscroll)
   }
 };
 </script>
@@ -116,6 +130,31 @@ export default {
     img.logo {
       width: 100px;
       height: 100px;
+    }
+  }
+
+  .page-top {
+    background-color: #fff;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    width: 40px;
+    height: 40px;
+    size: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),
+                0px 2px 2px 0px rgba(0,0,0,0.14),
+                0px 1px 5px 0px rgba(0,0,0,0.12);
+    z-index: 5;
+
+    i {
+      color: #67C23A;
+      display: block;
+      line-height: 40px;
+      text-align: center;
+      font-size: 18px;
     }
   }
 }
