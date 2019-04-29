@@ -60,7 +60,7 @@ export default {
         "iPad",
         "iPod"
       ].all(val => {
-        return userAgentInfo.indexOf(val) === -1
+        return userAgentInfo.indexOf(val) === -1;
       })
     }
   },
