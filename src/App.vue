@@ -53,34 +53,17 @@ export default {
     route(name) {
       this.$router.push(name);
     },
-    isPC() {
-      //是否为PC端
-      const userAgentInfo = navigator.userAgent;
-      return [
-        "Android",
-        "iPhone",
-        "SymbianOS",
-        "Windows Phone",
-        "iPad",
-        "iPod"
-      ].every(val => {
-        return userAgentInfo.indexOf(val) === -1;
-      })
-    },
     top() {
-      scrollTo(0,0);
+      scrollTo(0, 0);
     },
     onscroll() {
       this.display = window.scrollY >= 450;
     }
   },
   created() {
-    if (!this.isPC()) {
-      // window.alert("为了最佳体验，请在电脑端使用本网站！");
-    }
+    window.addEventListener("scroll", this.onscroll);
   },
   mounted() {
-    window.addEventListener("scroll", this.onscroll);
     this.$router.beforeEach((to, from, next) => {
       this.$Progress.start();
       next();
@@ -90,7 +73,7 @@ export default {
     });
   },
   beforeDestroy() {
-    window.removeEventListener("scroll", this.onscroll)
+    window.removeEventListener("scroll", this.onscroll);
   }
 };
 </script>
@@ -144,13 +127,12 @@ export default {
     border-radius: 20px;
     cursor: pointer;
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
-    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),
-                0px 2px 2px 0px rgba(0,0,0,0.14),
-                0px 1px 5px 0px rgba(0,0,0,0.12);
+    box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+      0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
     z-index: 5;
 
     i {
-      color: #67C23A;
+      color: #67c23a;
       display: block;
       line-height: 40px;
       text-align: center;
