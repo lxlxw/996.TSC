@@ -18,6 +18,10 @@ P.S. 站点已被微信屏蔽，这里有未被屏蔽的**备份地址：https:/
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 [![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
+（← 呼吁大家点击左侧top.996，为本项目「996.TSC」或者[「996.Action」](https://github.com/CPdogson/996action)投票）
+
+（另外，我和Repo作者[@lxlxw](https://github.com/lxlxw)已经商量好：如果获得任何奖金，将全部捐给[996.Action](https://github.com/CPdogson/996action)！表示对他们行动的支持！）
+
 ---
 
 ### 周边贡献标准
