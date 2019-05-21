@@ -1,18 +1,18 @@
 # 996.TSC
 
 > 996.TSC：996，The Surrounding Culture (周边文化)
-> 
+>
 > **本项目没有、也不会和任何"盈利"牵扯到一起！**
 >
-> **此版块为文化创意板块，担任[996.ICU](https://github.com/996icu/996.ICU)的文化宣传工作，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)**
+> 此版块为文化创意板块，担任[996.ICU](https://github.com/996icu/996.ICU)的文化宣传工作，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)
+>
+> P.S. 站点已被微信屏蔽，这里有未被屏蔽的**[备份地址](https://996tsc.github.io)**
 
-[996.ICU](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入 996.ICU 的活动中来。
+* [English](./README.en.md)
+
+本项目收集[996.ICU](https://github.com/996icu/996.ICU) 衍生出来的周边文化。旨在让更多人知道并加入 996.ICU 的活动中来。
 
 **号召大家为此项目贡献相关周边，包括但不限于：表情包、文化衫、海报、Logo、壁纸、媒体报道、精彩讨论文章！**
-
-
-
-P.S. 站点已被微信屏蔽，这里有未被屏蔽的**备份地址：https://996tsc.github.io**
 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -58,17 +58,8 @@ P.S. 站点已被微信屏蔽，这里有未被屏蔽的**备份地址：https:/
 **TODO**
 
 * 页面风格优化/美化
-* 页面自适应（不同规格屏幕，移动端适配）
-* “讨论文章”，目前的展示不能直观地查看所有文章标题
+* “讨论文章”：目前不能直观地查看所有文章标题
 * 网站速度优化（考虑图片全部使用外链，比如:sinaimg）
-
-
-
-### 其他标准
-
- - 可使用你的 GitHub ID 或者其他社交平台上非中文的 ID 来命名图片等文化产品
-
- - 图片请尽量压缩大小，图片质量过低的 Pull Request 会被 Close
 
 
 
@@ -94,6 +85,6 @@ License
 [反 996 许可证](LICENSE)
 
  - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
- - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
- - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
- - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+ - 在此处查看反 996 许可证下的[完整项目列表](https://github.com/996icu/996.ICU/tree/master/awesomelist)
+ - 该草案改编自 MIT 许可证，如需更多信息请查看 [repo](https://github.com/kattgu7/996-License-Draft)。此许可证旨在与所有主流开源许可证兼容。
+ - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助！
