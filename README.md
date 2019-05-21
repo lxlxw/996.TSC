@@ -6,7 +6,7 @@
 >
 > 此版块为文化创意板块，担任[996.ICU](https://github.com/996icu/996.ICU)的文化宣传工作，其他讨论请去往主站：[996.ICU](https://github.com/996icu/996.ICU)
 >
-> P.S. 站点已被微信屏蔽，这里有未被屏蔽的**[备份地址](https://996tsc.github.io)**
+> P.S. 站点已被微信屏蔽，这里有未被屏蔽的 **[备份地址](https://996tsc.github.io)**
 
 * [English](./README.en.md)
 
