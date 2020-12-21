@@ -50,7 +50,7 @@
     "markdown-it": "^8.4.2",
     "markdown-loader": "^5.0.0",
     "mini-css-extract-plugin": "0.4.1",
-    "node-notifier": "5.2.1",
+    "node-notifier": "8.0.1",
     "node-sass": "^4.7.2",
     "optimize-css-assets-webpack-plugin": "5.0.0",
     "ora": "3.0.0",
